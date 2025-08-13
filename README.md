@@ -18,4 +18,3 @@ Covers key programming concepts like file I/O, data modeling with Python’s `da
 - `json` for persistent data storage
 - Modular CLI design for maintainability
 
-## Project Structure
